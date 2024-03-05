@@ -12,9 +12,13 @@
 <p>This line is here to show how merging works.</p>
 <div><img src="img_hello_git.jpg" alt="Hello Git" style="width:100%;max-width:640px"></div>
 <<<<<<< HEAD
+<<<<<<< HEAD
 Dileep
 =======
 <h2>Dileep</h2>
 >>>>>>> 221145a49941b37d20d571dd114bf9cbcc82c341
+=======
+
+>>>>>>> 133890165b57310eb8959b5d9484c75c6ae772bd
 </body>
 </html>
